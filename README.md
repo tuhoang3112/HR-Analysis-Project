@@ -9,6 +9,6 @@ Báo cáo được thực hiện với sự hỗ trợ của Power BI để tín
 
 ### Kết quả phân tích
 
-**Link báo cáo Power BI:** https://app.powerbi.com/view?r=eyJrIjoiOGVmZDBjODUtMWQxMC00NjkxLThhYWItNDBjOWEwMmFlN2RiIiwidCI6ImM3NzhlYjg3LWUxODgtNDIwMi04OGRkLTIwNDAyMDk3YjA0ZSIsImMiOjEwfQ%3D%3D
+<a href="https://www.canva.com/design/DAGfFviERm0/MNKXW9wGT8G64scaLftsEw/view">Báo cáo tình hình nhân sự và nghỉ việc</a>
 
-**Bài phân tích chi tiết:** 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOGVmZDBjODUtMWQxMC00NjkxLThhYWItNDBjOWEwMmFlN2RiIiwidCI6ImM3NzhlYjg3LWUxODgtNDIwMi04OGRkLTIwNDAyMDk3YjA0ZSIsImMiOjEwfQ%3D%3D">Dashboard theo dõi tình hình nhân sự Power BI</a>
